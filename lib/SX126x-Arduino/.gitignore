@@ -1,0 +1,16 @@
+.pio
+.vscode
+
+examples/PingPongPio/test/
+
+examples/PingPongPio/lib/
+
+examples/PingPongPio/.vscode
+
+examples/LoRaWanPio/test/
+
+examples/LoRaWanPio/lib/
+
+examples/LoRaWanPio/.vscode
+
+*.DB
